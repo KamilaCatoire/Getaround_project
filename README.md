@@ -28,4 +28,8 @@ The machine learning is implemented using MLflow. I compared different models, s
 https://fastapi-ga-kc-dd15d3a6caeb.herokuapp.com/docs#/Predictions/predict_predict_post
 
 The API is hosted on Heroku.
+
+### Video presentation
+
+https://share.vidyard.com/watch/CManCyhYsSK2ShUkg7cUwv?
   

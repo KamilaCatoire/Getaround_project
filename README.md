@@ -31,5 +31,5 @@ The API is hosted on Heroku.
 
 ### Video presentation
 
-https://share.vidyard.com/watch/CManCyhYsSK2ShUkg7cUwv?
+https://share.vidyard.com/watch/CManCyhYsSK2ShUkg7cUwv?/
   
